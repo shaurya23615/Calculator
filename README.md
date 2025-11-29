@@ -42,17 +42,24 @@ Modern-Calculator/
 # Navigate into the project folder:
 
 cd Modern-Calculator
+
 Open index.html in your browser to start using the calculator.
 
 # 📦 Deployment on GitHub Pages
 Push your project to a GitHub repository (e.g., Modern-Calculator):
 
 git init
+
 git add .
+
 git commit -m "Initial commit"
+
 git branch -M main
+
 git remote add origin https://github.com/shaurya23615/Calculator.git
+
 git push -u origin main
+
 Enable GitHub Pages:
 
 Go to your repo → Settings → Pages
